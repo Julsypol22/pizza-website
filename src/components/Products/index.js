@@ -36,3 +36,4 @@ const Products = ({heading, data}) => {
 }
 
 export default Products;
+
